@@ -1,0 +1,56 @@
+클릭하면 이동
+https://youtu.be/QdeVCKyMHsc?si=f0lEwOn2-l87jXpQ
+
+드래그한만큼 이동
+https://youtu.be/vPz5syUS9c8?si=lHNvbNauCNYGqNqk
+
+드래그앤드롭
+https://youtu.be/bUXVrR4TJmE?si=Zfm7RIkpPH2AssEZ
+https://daru-daru.tistory.com/m/22
+
+클릭하면 물체 위로 점프
+https://youtu.be/jwEgQBmd6PA?si=8BIBv8YNVRo776hI
+
+클릭하면 회전하다가 천천히 멈춤
+https://youtu.be/giYtNBlSziA?si=xt7gupUJavkxi77q
+
+
+Item ispection, Pick up 등 모음
+https://www.youtube.com/watch?v=dTUDQ0RzHkA&list=LL&index=1&t=46s
+
+Item ispection
+https://www.youtube.com/watch?v=0E8wtIcF12U&list=LL&index=4&t=31s
+
+https://www.youtube.com/watch?v=DPu13v7C-nY&list=LL&index=6
+
+How to Grab Objects and Move Them Around in Unreal Engine 5
+https://www.youtube.com/watch?v=k6oKBVRaLLo&list=LL&index=7&t=5s
+
+Door Puzzle(특정 위치로 회전시켜야 문 열림)
+https://www.youtube.com/watch?v=zkyCJec7DA4&list=LL&index=9&t=1s
+
+
+Inventory
+https://www.youtube.com/watch?v=khjUY5To7qI&list=LL&index=26
+
+https://www.youtube.com/watch?v=UUAMjTsLaaU&list=LL&index=25
+
+https://www.youtube.com/watch?v=2s8X3lcMz9U&list=LL&index=24
+
+마우스 라인 트레이스
+https://www.youtube.com/watch?v=hiEAVfbFsCw
+
+클릭 이벤트 활성화
+https://www.youtube.com/watch?v=fPlQ1wx2W34
+
+리그레일
+https://www.youtube.com/watch?v=zSA17y5QQ8M
+
+버튼 클릭으로 45도 회전(90도 회전 오류 해결 가능?)
+https://forums.unrealengine.com/t/rotating-an-object-360-degree-not-90/672631
+
+컴포넌트 드래그 회전오류 해결법
+https://forums.unrealengine.com/t/rotating-full-360-on-pitch-using-axis-input/215247
+
+RotatingMovement 컴포넌트만 돌리는 법
+https://forums.unrealengine.com/t/is-there-a-way-to-add-rotating-movement-that-only-effects-one-component-within-a-blueprint-and-not-the-whole-actor/356254/2
